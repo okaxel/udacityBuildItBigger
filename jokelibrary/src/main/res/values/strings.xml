@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joke Library</string>
+    <string name="app_title">Show Joke</string>
+    <string name="placeholder_no_joke">No joke loaded yet.</string>
+</resources>
